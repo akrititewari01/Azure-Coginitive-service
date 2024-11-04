@@ -1,1 +1,5 @@
+This repository includes Python scripts for interacting with specific API or SDK.
 
+sdk-client.py- directly utilizes an SDK to interact with the API.
+rest-client.py- makes HTTP requests to the API's endpoints.
+.env- This project requires certain environmental variables, defined in .env file.
