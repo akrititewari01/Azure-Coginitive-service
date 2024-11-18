@@ -27,7 +27,9 @@ def main():
         print(candidate.answer)    
         print("Confidence: {}".format(candidate.confidence))  
         print("Source: {}".format(candidate.source)) 
+        
   except Exception as ex:     
     print(ex)
+    
     if _name_ == "_main_":  
       main()
