@@ -1,0 +1,2 @@
+AI_SERVICE_ENDPOINT="https://aaakaarserve.cognitiveservices.azure.com/"
+AI_SERVICE_KEY="2fbf8fdcac914152836b0fd0baa41047"QA_PROJECT_NAME=LearnFAQQA_DEPLOYMENT_NAME=production
